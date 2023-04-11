@@ -1,3 +1,1 @@
-Main branch .
-Hot fix.
-That was close.
+My first Resolve.
